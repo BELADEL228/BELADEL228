@@ -1,0 +1,33 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Background texture">
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1280" y2="640" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#05070C"/>
+      <stop offset="1" stop-color="#0B1220"/>
+    </linearGradient>
+    <radialGradient id="spot1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1040 120) scale(420)">
+      <stop offset="0" stop-color="#3D7DFF" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#3D7DFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="spot2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(180 560) scale(380)">
+      <stop offset="0" stop-color="#3D7DFF" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#3D7DFF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1A2740" stroke-width="1"/>
+    </pattern>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.4" cy="1.4" r="1.4" fill="#3D7DFF" fill-opacity="0.12"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="640" fill="url(#base)"/>
+  <rect width="1280" height="640" fill="url(#grid)" opacity="0.5"/>
+  <rect width="1280" height="640" fill="url(#dots)"/>
+  <rect width="1280" height="640" fill="url(#spot1)"/>
+  <rect width="1280" height="640" fill="url(#spot2)"/>
+
+  <!-- faint court arcs, echo the banner's basketball-to-growth-curve signature -->
+  <circle cx="1040" cy="120" r="260" stroke="#3D7DFF" stroke-opacity="0.08" stroke-width="1.5" fill="none"/>
+  <circle cx="1040" cy="120" r="170" stroke="#3D7DFF" stroke-opacity="0.06" stroke-width="1.5" fill="none"/>
+  <path d="M 60 520 C 160 560, 260 560, 340 500 C 410 452, 440 400, 520 380" stroke="#3D7DFF" stroke-opacity="0.14" stroke-width="2" fill="none" stroke-linecap="round"/>
+</svg>

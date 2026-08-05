@@ -1,0 +1,20 @@
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="AB monogram — Abel Belei">
+  <defs>
+    <linearGradient id="ring" x1="30" y1="210" x2="210" y2="30" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3D7DFF"/>
+      <stop offset="1" stop-color="#8FC1FF"/>
+    </linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="240" y2="240" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#05070C"/>
+    </linearGradient>
+  </defs>
+
+  <circle cx="120" cy="120" r="118" fill="url(#bg)" stroke="#1A2740" stroke-width="2"/>
+
+  <!-- signature arc, echoes the profile banner's shot-arc / growth-line -->
+  <path d="M 46 150 C 80 190, 150 196, 194 150" stroke="url(#ring)" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <circle cx="194" cy="150" r="4.5" fill="#8FC1FF"/>
+
+  <text x="120" y="118" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-weight="800" font-size="72" fill="#F5F7FA" letter-spacing="1">AB</text>
+</svg>

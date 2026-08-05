@@ -1,0 +1,25 @@
+name: Update Profile Activity
+
+# Refreshes the "Latest Activity" section between the
+# <!--START_SECTION:activity--> markers in README.md.
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"    # every 30 minutes
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pull latest GitHub activity into README
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MAX_LINES: 5
+          COMMIT_MSG: "chore(readme): refresh latest activity [skip ci]"
