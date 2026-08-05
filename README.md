@@ -211,7 +211,7 @@ Je suis aussi à la recherche de projets open source où contribuer et apprendre
 
 <div align="center">
 
-<a href="mailto:abel.belei@example.com"><img src="https://img.shields.io/badge/Email-05070C?style=for-the-badge&logo=gmail&logoColor=3D7DFF" alt="Email"/></a>
+<a href="mailto:beleiabel8@gmail.com"><img src="https://img.shields.io/badge/Email-05070C?style=for-the-badge&logo=gmail&logoColor=3D7DFF" alt="Email"/></a>
 <a href="https://linkedin.com/in/abel-belei"><img src="https://img.shields.io/badge/LinkedIn-05070C?style=for-the-badge&logo=linkedin&logoColor=3D7DFF" alt="LinkedIn"/></a>
 <a href="https://twitter.com/BELADEL228"><img src="https://img.shields.io/badge/X_/_Twitter-05070C?style=for-the-badge&logo=x&logoColor=3D7DFF" alt="X / Twitter"/></a>
 <a href="https://github.com/BELADEL228"><img src="https://img.shields.io/badge/GitHub-05070C?style=for-the-badge&logo=github&logoColor=3D7DFF" alt="GitHub"/></a>
