@@ -54,8 +54,8 @@
 
     <g>
       <text id="role-1" x="64" y="182" class="role">Full-Stack Developer — Java · Spring Boot · React</text>
-      <text id="role-2" x="64" y="182" class="role">Building for the web, mobile &amp; the cloud</text>
-      <text id="role-3" x="64" y="182" class="role">Learning DevOps, one deploy at a time</text>
+      <text id="role-2" x="64" y="180" class="role">Building for the web, mobile &amp; the cloud</text>
+      <text id="role-3" x="64" y="178" class="role">Learning DevOps, one deploy at a time</text>
     </g>
 
     <!-- tag chips -->
