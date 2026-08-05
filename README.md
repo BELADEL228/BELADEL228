@@ -73,50 +73,50 @@ Ce qui m'anime : comprendre comment un système fonctionne de bout en bout, du b
 
 ## Projets phares
 
-<!-- Remplace les liens ci-dessous par l'URL réelle de chaque dépôt s'ils diffèrent. -->
+<!-- Ces 4 dépôts sont réels (vérifiés sur github.com/BELADEL228). Ajuste les descriptions si besoin. -->
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 PathPedia
-Plateforme d'orientation scolaire pensée pour aider les élèves à choisir la bonne filière au bon moment.
+### 💼 Portfolio_RA
+Portfolio personnel développé en TypeScript — vitrine de mes projets et de mon profil de développeur.
 
-`React` `Spring Boot` `PostgreSQL`
+`TypeScript`
 
-**[→ Voir le projet](https://github.com/BELADEL228/pathpedia)**
+**[→ Voir le projet](https://github.com/BELADEL228/Portfolio_RA)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🌍 CRAITE Afrique
-Communauté et plateforme dédiée aux étudiants africains — échanger, apprendre, avancer ensemble.
+### 🗂️ MyPORTFOLIO
+Mon portfolio professionnel — présentation de mon parcours, mes compétences et mes réalisations.
 
-`React` `Node.js` `Express`
+`CSS`
 
-**[→ Voir le projet](https://github.com/BELADEL228/craite-afrique)**
+**[→ Voir le projet](https://github.com/BELADEL228/MyPORTFOLIO)**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏀 Basketball Team Platform
-Plateforme complète de gestion d'équipe : joueurs, entraîneurs, calendrier, statistiques, notifications, médias.
+### 🧩 Ulchallengepage
+Page développée dans le cadre d'un challenge de développement front-end.
 
-`Java` `Spring Boot` `React` `MySQL`
+`HTML` `CSS`
 
-**[→ Voir le projet](https://github.com/BELADEL228/basketball-team-platform)**
+**[→ Voir le projet](https://github.com/BELADEL228/Ulchallengepage)**
 
 </td>
 <td width="50%" valign="top">
 
-### 💊 Pharmacy Management System
-Prototype d'un système de gestion de pharmacie — stocks, ventes, ordonnances.
+### ⏳ 2025.countdown
+Petite application de compte à rebours pour la nouvelle année.
 
-`Java` `Spring Boot` `MySQL`
+`HTML`
 
-**[→ Voir le projet](https://github.com/BELADEL228/pharmacy-management-system)**
+**[→ Voir le projet](https://github.com/BELADEL228/2025.countdown)**
 
 </td>
 </tr>
