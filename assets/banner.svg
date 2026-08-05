@@ -30,9 +30,9 @@
     @keyframes pulse{ 0%,100%{ r:5; opacity:1;} 50%{ r:9; opacity:0.35;} }
     @keyframes blink{ 0%,49%{opacity:1;} 50%,100%{opacity:0;} }
     @keyframes fadeUp{ 0%{opacity:0; transform:translateY(8px);} 12%{opacity:1; transform:translateY(0);} 88%{opacity:1;} 100%{opacity:0; transform:translateY(-8px);} }
-    #role-1{ animation: fadeUp 9s ease-in-out infinite; }
-    #role-2{ animation: fadeUp 9s ease-in-out infinite; animation-delay: 3s; }
-    #role-3{ animation: fadeUp 9s ease-in-out infinite; animation-delay: 6s; }
+    #role-1{ animation: fadeUp 9s ease-in-out infinite; animation-delay: 4s }
+    #role-2{ animation: fadeUp 9s ease-in-out infinite; animation-delay: 8s; }
+    #role-3{ animation: fadeUp 9s ease-in-out infinite; animation-delay: 12s; }
     #role-1,#role-2,#role-3{ opacity:0; }
     .arcPath{ stroke-dasharray: 620; stroke-dashoffset: 620; animation: draw 2.6s ease-out forwards; }
     .ball{ animation: pulse 2.4s ease-in-out infinite; animation-delay: 2.6s; }
