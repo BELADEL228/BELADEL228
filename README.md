@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=3D7DFF&center=true&vCenter=true&width=650&lines=Software+Engineer+en+devenir...;Java+%26+Spring+Boot+Enthusiast;Full-Stack+%7C+DevOps+%7C+Cloud;Je+construis+des+choses+qui+comptent+%F0%9F%87%B9%F0%9F%87%AC" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=3D7DFF&center=true&vCenter=true&width=650&lines=Software+Engineer+en+devenir...;Java+%26+Spring+Boot+Enthusiast;Full-Stack+%7C+DevOps+%7C+Cloud;Je+construis+des+choses+qui+comptent" alt="Typing animation" />
 
 <img src="https://komarev.com/ghpvc/?username=BELADEL228&color=0B1220&style=for-the-badge&label=PROFILE+VIEWS&labelColor=05070C" alt="Profile views" />
 
@@ -14,16 +14,13 @@
 
 ## À propos de moi
 
-Je m'appelle **Abel Belei**, je suis togolais, et j'étudie le **Génie Logiciel** en Licence Professionnelle. Je n'ai pas commencé ce parcours en sachant tout — je l'ai commencé en étant curieux, et cette curiosité ne m'a pas quitté depuis.
+Je m'appelle **Abel Belei**, je suis togolais et j'étudie le **Génie Logiciel** en licence professionnelle. Je n'avais pas de plan de carrière tout tracé en commençant — j'avais surtout envie de comprendre comment les choses marchent, et cette envie ne m'a pas quitté depuis.
 
-Ce qui m'anime : comprendre comment un système fonctionne de bout en bout, du bouton sur lequel un utilisateur clique jusqu'au conteneur qui tourne en production. J'aime concevoir, construire, casser, corriger, recommencer.
+Ce qui m'intéresse le plus, c'est de suivre un système du début à la fin : du bouton sur lequel quelqu'un clique jusqu'au serveur qui tourne derrière. En ce moment, **Java** et **Spring Boot** sont mes outils du quotidien, **React** vient compléter côté client, et j'apprends **Docker**, **Kubernetes** et **AWS** petit à petit pour comprendre ce qui se passe après le déploiement.
 
-- 🎓 Étudiant en Génie Logiciel, en route vers le métier de **Software Engineer**
-- ☕ Je maîtrise **Java** et **Spring Boot**, et je les pousse chaque jour un peu plus loin
-- 🌐 Je deviens **Full-Stack Developer** — React côté client, Spring Boot côté serveur
-- ⚙️ Je me forme au rôle de **DevOps Engineer** : Docker aujourd'hui, Kubernetes et AWS demain
-- 🌍 Je veux contribuer à l'**Open Source** et construire des produits qui résolvent de vrais problèmes, en particulier pour l'Afrique
-- 🏀 En dehors du code, je joue et je suis le basketball — la rigueur d'un entraînement n'est pas si différente de celle d'un bon sprint de développement
+J'aimerais, à terme, contribuer à des projets open source et construire des outils qui servent vraiment à quelqu'un — en particulier pour des étudiants africains. C'est l'idée derrière quelques projets personnels que je fais avancer en dehors de mes cours, comme une plateforme d'orientation scolaire ou un outil de gestion pour une équipe de basketball.
+
+En dehors du code, je joue au basketball, et les deux se ressemblent plus qu'on ne le pense : il faut s'entraîner régulièrement, accepter de rater avant de réussir, et revenir aux fondamentaux quand quelque chose ne marche pas.
 
 <br/>
 
@@ -73,14 +70,14 @@ Ce qui m'anime : comprendre comment un système fonctionne de bout en bout, du b
 
 ## Projets phares
 
-<!-- Ces 4 dépôts sont réels (vérifiés sur github.com/BELADEL228). Ajuste les descriptions si besoin. -->
+<!-- Ces 4 dépôts sont réels (vérifiés sur github.com/BELADEL228). Ajuste les descriptions si l'un d'eux fait autre chose que ce qui est décrit ici. -->
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💼 Portfolio_RA
-Portfolio personnel développé en TypeScript — vitrine de mes projets et de mon profil de développeur.
+### Portfolio_RA
+Mon portfolio personnel, écrit en TypeScript — une vitrine simple de mes projets et de mon profil de développeur.
 
 `TypeScript`
 
@@ -89,8 +86,8 @@ Portfolio personnel développé en TypeScript — vitrine de mes projets et de m
 </td>
 <td width="50%" valign="top">
 
-### 🗂️ MyPORTFOLIO
-Mon portfolio professionnel — présentation de mon parcours, mes compétences et mes réalisations.
+### MyPORTFOLIO
+Une première version de mon portfolio, en CSS pur.
 
 `CSS`
 
@@ -101,8 +98,8 @@ Mon portfolio professionnel — présentation de mon parcours, mes compétences 
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 Ulchallengepage
-Page développée dans le cadre d'un challenge de développement front-end.
+### Ulchallengepage
+Une page réalisée dans le cadre d'un challenge front-end, pour m'entraîner sur le HTML et le CSS.
 
 `HTML` `CSS`
 
@@ -111,8 +108,8 @@ Page développée dans le cadre d'un challenge de développement front-end.
 </td>
 <td width="50%" valign="top">
 
-### ⏳ 2025.countdown
-Petite application de compte à rebours pour la nouvelle année.
+### 2025.countdown
+Une petite application de compte à rebours pour la nouvelle année — simple, mais menée de bout en bout.
 
 `HTML`
 
@@ -130,16 +127,15 @@ Petite application de compte à rebours pour la nouvelle année.
 
 <br/>
 
-## Focus actuel
+## Ce sur quoi je travaille en ce moment
 
 ```text
 2026 → renforcer Java & Spring Boot, construire en Full-Stack, apprendre Docker → Kubernetes → AWS
 ```
 
-- 🔭 Je travaille en ce moment sur des applications Full-Stack avec **Spring Boot** et **React**
-- 📚 J'approfondis le **DevOps** : Docker au quotidien, Kubernetes et AWS en apprentissage actif
-- 🤝 Je cherche des projets **Open Source** où contribuer et apprendre au contact d'autres développeurs
-- 💬 On peut me parler de Java, Spring Boot, React, DevOps, cloud, IA — ou basketball
+Mon objectif pour cette année est simple : consolider mes bases en Java et Spring Boot, construire davantage en Full-Stack avec React, et avancer pas à pas vers le DevOps.
+
+Je suis aussi à la recherche de projets open source où contribuer et apprendre au contact d'autres développeurs. Si tu veux discuter de Java, Spring Boot, React, DevOps, cloud — ou basketball — n'hésite pas à me contacter.
 
 <br/>
 
@@ -176,28 +172,21 @@ Petite application de compte à rebours pour la nouvelle année.
 
 <br/>
 
-## Tableau de métriques
-
-<div align="center">
-
-<!-- Généré automatiquement par .github/workflows/metrics.yml -->
-<img src="assets/metrics.svg" alt="Tableau de métriques GitHub" width="100%"/>
-
-</div>
-
-<br/>
-
 ## Trophées GitHub
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=BELADEL228&theme=darkhub&no-frame=true&column=4&margin-w=12&margin-h=12" alt="Trophées GitHub"/>
+<img src="https://github-profile-trophy.vercel.app/?username=BELADEL228&theme=darkhub&no-frame=true&column=4" alt="Trophées GitHub"/>
 
 </div>
 
+<!-- Ce widget est servi par une instance publique gratuite (github-profile-trophy.vercel.app), parfois surchargée.
+     S'il ne s'affiche pas après un rafraîchissement de la page, réessaie dans quelques minutes,
+     ou remplace l'URL par un miroir de la communauté — la liste est dans docs/SETUP.md. -->
+
 <br/>
 
-## Le serpent qui dévore mes contributions 🐍
+## Contributions, jour après jour
 
 <div align="center">
 
@@ -233,7 +222,7 @@ Petite application de compte à rebours pour la nouvelle année.
 
 ## Soutenir
 
-Si un de mes projets te sert ou t'inspire, laisser une ⭐ sur le dépôt est déjà un très beau soutien.
+Si un de mes projets te sert ou t'inspire, laisser une étoile sur le dépôt fait toujours plaisir.
 
 <div align="center">
 
@@ -246,14 +235,13 @@ Si un de mes projets te sert ou t'inspire, laisser une ⭐ sur le dépôt est d�
 
 <div align="center">
 
-> *« Le code s'écrit ligne par ligne. La maîtrise se construit jour après jour. »*
+> *« Le code, comme le basketball, ça s'apprend en le pratiquant — pas en le regardant. »*
 > — Abel Belei
 
 <br/>
 
 <img src="assets/logo.svg" width="64" alt="Logo AB"/>
 
-**Abel Belei** · Togo 🇹🇬 · Génie Logiciel
-Construit avec rigueur, pensé avec soin.
+**Abel Belei** · Togo · Génie Logiciel
 
 </div>
